@@ -18,19 +18,19 @@ const CONFIG = {
 
   // ── 메인 (히어로) ──
   groom: {
-    name: "이민우",
-    nameEn: "Groom",
-    father: "이종문",
-    mother: "이진숙",
+    name: "이고은",
+    nameEn: "GOEUN",
+    father: "이상운",
+    mother: "박미현",
     fatherDeceased: true,
     motherDeceased: false
   },
 
   bride: {
-    name: "이고은",
-    nameEn: "Bride",
-    father: "이상운",
-    mother: "박미현",
+    name: "이민우",
+    nameEn: "MINWOO",
+    father: "이종문",
+    mother: "이진숙",
     fatherDeceased: true,
     motherDeceased: false
   },
