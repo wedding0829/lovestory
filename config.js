@@ -40,7 +40,7 @@ const CONFIG = {
     time: "15:20",
     venue: "상암 DMC 타워웨딩 2층",
     hall: "그랜드볼룸홀",
-    address: "서울 마포구 성암로 189",
+    address: "서울 마포구 성암로 189\n주차 안내\n웨딩홀 지하2~지하6층 주차장\n무료주차 2시간 /초과 10분당 500원",
     
     mapLinks: {
       kakao: "https://map.kakao.com/?urlX=477459.9999999982&urlY=1132575.0000000023&urlLevel=3&itemId=18285577&q=DMC%ED%83%80%EC%9B%8C%EC%9B%A8%EB%94%A9&srcid=18285577&map_type=TYPE_MAP",
@@ -71,7 +71,7 @@ const CONFIG = {
     ],
     bride: [
       { role: "이고은", name: "", bank: "카카오뱅크", number: "3333-08-6544623" },
-      { role: "박미현", name: "", bank: "국민은행", number: "700435-01-044377" }
+      { role: "박미현", name: "", bank: "국민은행", number: "827501-01-044377" }
     ]
   },
 
