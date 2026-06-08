@@ -38,9 +38,9 @@ const CONFIG = {
   wedding: {
     date: "2026-08-29",
     time: "15:20",
-    venue: "상암 DMC웨딩타워",
-    hall: "그랜드볼룸홀 2층",
-    address: "서울특별시 마포구 상암동 1622번지 중소기업 디엠씨 타워2층",
+    venue: "상암 DMC 타워웨딩 2층",
+    hall: "그랜드볼룸홀",
+    address: "서울 마포구 성암로 189",
     
     mapLinks: {
       kakao: "https://map.kakao.com/?urlX=477459.9999999982&urlY=1132575.0000000023&urlLevel=3&itemId=18285577&q=DMC%ED%83%80%EC%9B%8C%EC%9B%A8%EB%94%A9&srcid=18285577&map_type=TYPE_MAP",
